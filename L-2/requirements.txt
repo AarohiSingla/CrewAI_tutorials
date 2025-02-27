@@ -1,0 +1,10 @@
+streamlit
+crewai[tools]
+pysqlite3-binary
+crewai
+langchain
+langchain_ollama
+langchain_community
+crewai_tools
+duckduckgo-search
+
